@@ -1,14 +1,13 @@
-# YOLO Object Detection Project
+# Microplastic Detection with YOLO
 
-A comprehensive object detection project using YOLOv8 for training custom models on annotated datasets. This project includes dataset validation, visualization tools, and automated model training with hyperparameter tuning.
+An AI-powered microplastic detection system using YOLOv8 to identify and classify microplastic particles in environmental samples and microscopic images.
 
-## 🚀 Features
-
-- **Dataset Validation**: Comprehensive validation of image datasets and annotations
-- **Bounding Box Visualization**: Interactive plotting of bounding boxes on images
-- **YOLOv8 Integration**: State-of-the-art object detection model training
-- **Hyperparameter Tuning**: Automated optimization for best model performance
-- **Roboflow Integration**: Seamless dataset management and downloading
+## Features
+- Microplastic particle detection and classification
+- Dataset validation for microscopic imagery
+- Bounding box visualization for detected particles
+- YOLOv8 model training optimized for small particle detection
+- Roboflow integration for microplastic dataset management
 
 ## Quick Start
 ```bash

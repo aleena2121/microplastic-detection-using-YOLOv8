@@ -1,9 +1,9 @@
 # Microplastic Detection with YOLO
 
-An AI-powered microplastic detection system using YOLOv8 to identify and classify microplastic particles in environmental samples and microscopic images.
+An AI-powered microplastic detection system using YOLOv8 to identify microplastic particles in environmental samples and microscopic images.
 
 ## Features
-- Microplastic particle detection and classification
+- Microplastic particle detection
 - Dataset validation for microscopic imagery
 - Bounding box visualization for detected particles
 - YOLOv8 model training optimized for small particle detection
